@@ -42,9 +42,4 @@ This is a C++ based Clinic Management System designed to manage patient records,
 - **Username:** `khwopa`
 - **Password:** `khwopa123`
 
-## Contributing
-Feel free to submit issues or pull requests to improve the system.
-
-## License
-This project is licensed under the MIT License.
 
